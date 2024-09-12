@@ -1,0 +1,15 @@
+
+/venv
+scrollyfd_be/__pycache__/
+scrollyfd_be/db.sqlite3
+scrollyfd-fe/node_modules/
+
+# Environment files
+*.env
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
